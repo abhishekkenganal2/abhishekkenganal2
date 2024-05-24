@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek B K</h1>
 <h3 align="center">A passionate MERN stack developer from India, Karnataka</h3>
 
-<p  align="right"><img alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"></p>
+<p><img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkenganal2&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkenganal2" /> </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkenganal2" alt="abhishekkenganal2" /></a> </p>
 
 - 🔭 I’m currently working on [Embedding d3 with react]
 
@@ -26,6 +25,7 @@
 
 - ⚡ Fun fact **You can actually die laughing😂🤣**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkenganal2" alt="abhishekkenganal2" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-kenganal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kenganal2" height="30" width="40" /></a>
