@@ -42,7 +42,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkenganal2&show_icons=true&locale=en&layout=compact" alt="abhishekkenganal2" /></p>
 <p><img align="right"width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIn5TcBkUAfJsFz6QK6UjVLbggon3UrVcKNj2zvbs8w&s"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekkenganal2&show_icons=true&locale=en" alt="abhishekkenganal2" /></p>
-<p><img align="right" width="300" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif"/></p>
+<p><img align="right" height="400" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif"/></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkenganal2&" alt="abhishekkenganal2" /></p>
 
 
