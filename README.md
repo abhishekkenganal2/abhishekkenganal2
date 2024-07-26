@@ -1,4 +1,4 @@
-![logo](https://github.com/abhishekkenganal2/abhishekkenganal2/blob/main/Modern%20Aesthetic%20YouTube%20Channel%20Art.png)
+![logo](https://github.com/abhishekkenganal2/abhishekkenganal2/blob/main/github_banner.png)
 <h1 align="center">Hi 👋, I'm Abhishek B K</h1>
 <h3 align="center">A passionate MERN stack developer from India, Karnataka</h3>
 
