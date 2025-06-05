@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **You can actually die laughing😂🤣**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkenganal2" alt="abhishekkenganal2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" style="gap: 5px;"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkenganal2" alt="abhishekkenganal2" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-kenganal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kenganal2" height="30" width="40" /></a>
